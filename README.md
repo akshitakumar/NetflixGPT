@@ -1,3 +1,7 @@
+Welcome to NetflixGPT 👋
+
+NetflixGPT is a web application that leverages the power of OpenAI's GPT-3 to enhance your Netflix experience. With this project, you can generate personalized movie and TV show recommendations based on your preferences, engage in natural language conversations to discover new content, and get detailed information about your favorite shows and movies.
+
 # NETFLIX GPT
 ![WhatsApp Image 2025-03-25 at 23 21 18_ef38ce00](https://github.com/user-attachments/assets/0370b7b0-b76e-4539-a82b-6efd9a86ad49)
 
